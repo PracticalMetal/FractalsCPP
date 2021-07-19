@@ -32,3 +32,5 @@ X<sub>n+1</sub> = X<sub>n</sub> + (P.X - X<sub>n</sub>).A
 Y<sub>n+1</sub> = Y<sub>n</sub> + (P.Y - Y<sub>n</sub>).B
 
 $A,B \in (0,1)$
+
+***For Sierpinski Triangle*** A,B = 0.
