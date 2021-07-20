@@ -5,7 +5,8 @@
             "includePath": [
                 "${workspaceFolder}/**",
                 "/opt/opencv/**",
-                "/usr/local/include/opencv4/**"
+                "/usr/local/include/opencv4/**",
+                "~/Documents/Github/FractalCPP/include/**"
                 
             ],
             "defines": [],
