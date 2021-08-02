@@ -2,10 +2,13 @@
 Fractals are indefinitely complex patterns that are self-similar across different scales. Simply understood, fractals are indefinitely self repeating structures and are seen in several parts of our surrounding ranging from tree branches to leaves and much more. One of the most famous examples of a fractal is the Seirpinski Triangle.Images of fractals can be created by fractal generating programs. Because of the butterfly effect, a small change in a single variable can have an unpredictable outcome.Fractal patterns have been modeled extensively, albeit within a range of scales rather than infinitely, owing to the practical limits of physical time and space. Models may simulate theoretical fractals or natural phenomena with fractal features. The outputs of the modelling process may be highly artistic renderings, outputs for investigation, or benchmarks for fractal analysis. Some specific applications of fractals to technology are listed elsewhere. Images and other outputs of modelling are normally referred to as being "fractals" even if they do not have strictly fractal characteristics, such as when it is possible to zoom into a region of the fractal image that does not exhibit any fractal properties.
 
 
-<!-- ![Sierpinski Triangle](https://user-images.githubusercontent.com/73461832/126078961-1d25edb2-a787-4c7d-9c57-ca17de314baa.png) -->
+<!-- ![Sierpinski Triangle](https://user-images.githubusercontent.com/73461832/126078961-1d25edb2-a787-4c7d-9c57-ca17de314baa.png)  -->
 
-<div style="text-align:center"><img src="https://user-images.githubusercontent.com/73461832/126078961-1d25edb2-a787-4c7d-9c57-ca17de314baa.png" /></div>
+<!-- <div style="text-align:center"><img src="https://user-images.githubusercontent.com/73461832/126078961-1d25edb2-a787-4c7d-9c57-ca17de314baa.png" /></div> -->
 
+<p align="center">
+    <img src="https://user-images.githubusercontent.com/73461832/126078961-1d25edb2-a787-4c7d-9c57-ca17de314baa.png" width ="300" height="300" />
+</p>
 <p align="center">
     ***Sierpinski Triangle***
 </p>
