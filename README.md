@@ -7,7 +7,7 @@ Fractals are indefinitely complex patterns that are self-similar across differen
 <!-- <div style="text-align:center"><img src="https://user-images.githubusercontent.com/73461832/126078961-1d25edb2-a787-4c7d-9c57-ca17de314baa.png" /></div> -->
 
 <p align="center">
-    <img src="https://user-images.githubusercontent.com/73461832/126078961-1d25edb2-a787-4c7d-9c57-ca17de314baa.png" width ="300" height="300" />
+    <img src="https://user-images.githubusercontent.com/73461832/126078961-1d25edb2-a787-4c7d-9c57-ca17de314baa.png" width ="250" height="250" />
 </p>
 <p align="center">
     ***Sierpinski Triangle***
